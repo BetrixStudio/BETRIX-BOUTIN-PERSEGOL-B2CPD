@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: manrope, roboto;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+
+}
+
+.photo{
+    
+    height: 30vh;
+    background-image: url(../img/resto/Cusinje.png);
+    background-size: contain;
+    height: 30vh;
+    padding: 0 5% 0 5%;
+    margin-top: 15%;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: column;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.croix{
+    margin-top: 20px;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-end;
+    height: 20%;
+}
+
+.body{
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.users{
+    background-color: rgba(0, 0, 0, 0.483);
+    padding: 1px 1px 1px 1px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 8px;
+    height: auto;
+    width: 40%;
+    margin: 50px 0 20px 0;
+}
+
+.Informations{
+    padding: 0 5% 0 5%;
+    display: flex;
+    align-items: center;
+    margin-top: 4%;
+
+}
+
+.time{
+    font-size: 14px;
+    padding: 0 5% 0 5%;
+    margin: 0;
+    color: #FF675F;
+}
+
+.titre{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin: 0;
+}
+
+.name{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.589);
+    color: white;
+    border-radius: 6px;
+    padding: 2vh;
+}
+
+.citation{
+    font-size: medium;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.nom_resto{
+    margin: 0;
+    font-size: 3ch;
+}
+
+.groupe_1{
+    font-size: 14px;
+    padding: 0 5% 0 5%;
+    margin: 0;
+}
+
+.groupe{
+    background-color: #F5F5F5;
+    width: 20vh;
+    padding: 4% 4% 4% 4%;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.specialites{
+    padding: 0 5% 0 5%;
+    margin-top: 6%;
+}
+
+.spec{
+    font-size: 25px;
+}
+
+.title{
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.title2{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.price{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 4px;
+    margin-bottom: 0;
+    color: rgba(0, 0, 0, 0.403);
+}
+
+.separation{
+    height: 1px;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.101);
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+p{
+    font-size: 14px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}
+
+.produit1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.aliment{
+    height: 100px;
+    width: 100px;
+    margin-left: 5%;
+}
+
+.papi{
+    padding: 0 5% 0 5%;
+    margin-top: 10%;
+}
+
+.price2{
+    color: #FF675F;
+    font-weight: 700;
+}
+
+.titre3{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 0;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.lienblanc{
+    text-decoration: none;
+    color: black;
+}
